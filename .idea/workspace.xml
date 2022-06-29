@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="My Semi-colon project">
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/DisplayNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/BikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/PetrolStationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tddClass/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/AirCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Buyer gets discount of 2% on fuel bought">
+      <change beforePath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -178,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656078551518</updated>
       <workItem from="1656078554110" duration="52617000" />
-      <workItem from="1656338566406" duration="59792000" />
+      <workItem from="1656338566406" duration="60708000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -187,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656361697739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Buyer gets discount of 2% on fuel bought">
+      <created>1656529193314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656529193314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Buyer gets discount of 2% on fuel bought">
+      <created>1656529239920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656529239920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My Semi-colon project" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Semi-colon project" />
+    <MESSAGE value="Buyer gets discount of 2% on fuel bought" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buyer gets discount of 2% on fuel bought" />
   </component>
 </project>
