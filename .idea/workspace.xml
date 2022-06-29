@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeremiahSemiColon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/AirCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="My Semi-colon project">
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/DisplayNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/PetrolStationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/AirCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +51,10 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "C:/Users/user/IdeaProjects/jeremiahSemiColon/src",
+    "last_directory_selection": "C:/Users/user/IdeaProjects/jeremiahSemiColon/src/tddClass",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/jeremiahSemiColon",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -65,8 +64,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="assignment" />
       <recent name="tddClass" />
+      <recent name="assignment" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -79,34 +78,8 @@
       <recent name="assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chapterTwo.GuessGame">
-    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.GuessGame" />
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapterTwo.GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterTwo.GuessGame" />
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapterTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BikeTest.TestForPowerBikeOnGearThree">
+    <configuration name="BikeTest.TestForPowerBikeCanOnGearThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -115,29 +88,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.AccountTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.methodName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.AccountTest" />
-      <option name="METHOD_NAME" value="methodName" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
+      <option name="METHOD_NAME" value="TestForPowerBikeCanOnGearThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.withdrawWorktest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.TestForPowerBikeOnGearFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +104,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.AccountTest" />
-      <option name="METHOD_NAME" value="withdrawWorktest" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
+      <option name="METHOD_NAME" value="TestForPowerBikeOnGearFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.TestForPowerBikeOnGearThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
+      <option name="METHOD_NAME" value="TestForPowerBikeOnGearThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.TestForPowerBikeOnGearTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
+      <option name="METHOD_NAME" value="TestForPowerBikeOnGearTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.TestForPowerBikeSpeedOnGearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
+      <option name="METHOD_NAME" value="TestForPowerBikeSpeedOnGearOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.chapterTwo.GuessGame" />
-        <item itemvalue="JUnit.AccountTest" />
-        <item itemvalue="JUnit.AccountTest.methodName" />
-        <item itemvalue="JUnit.AccountTest.withdrawWorktest" />
-        <item itemvalue="Application.assignment.GuessGame" />
+        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearThree" />
+        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearTwo" />
+        <item itemvalue="JUnit.BikeTest.TestForPowerBikeSpeedOnGearOne" />
+        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearFour" />
+        <item itemvalue="JUnit.BikeTest.TestForPowerBikeCanOnGearThree" />
       </list>
     </recent_temporary>
   </component>
@@ -172,8 +178,16 @@
       <option name="presentableId" value="Default" />
       <updated>1656078551518</updated>
       <workItem from="1656078554110" duration="52617000" />
-      <workItem from="1656338566406" duration="5618000" />
+      <workItem from="1656338566406" duration="59792000" />
     </task>
+    <task id="LOCAL-00001" summary="My Semi-colon project">
+      <created>1656361697739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656361697739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,5 +203,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My Semi-colon project" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Semi-colon project" />
   </component>
 </project>

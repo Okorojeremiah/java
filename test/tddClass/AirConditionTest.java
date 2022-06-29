@@ -7,7 +7,14 @@ import static org.junit.jupiter.api.Assertions.*;
 class AirConditionTest {
 
     @Test
-    public void turnOn() {
+
+    public void testThatAirConditionCanBeCreated() {
+        AirCondition panasonic = new AirCondition();
+        assertNotNull(panasonic);
+    }
+
+    @Test
+    public void testThatAirConditionCanBeTurnOn() {
         //when
         AirCondition panasonic = new AirCondition();
         //given
@@ -17,7 +24,7 @@ class AirConditionTest {
     }
 
     @Test
-    public void turnOff() {
+    public void testThatAirConditionCanBeTurnOff() {
         //when
         AirCondition panasonic = new AirCondition();
         //given
@@ -27,21 +34,89 @@ class AirConditionTest {
     }
 
     @Test
-    public void increaseTemperature() {
-        //when
-        AirCondition panasonic = new AirCondition();
+    public void testThatTemperatureCanIncrease() {
         //given
-        panasonic.increaseTemperature(18);
-        //assert
-        assertEquals(19, panasonic.getTemperature());
+        AirCondition panasonic = new AirCondition();
+        //when
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        //check
+        assertEquals(18, panasonic.getTemperature());
+    }
+    @Test
+    public void testThatTemperatureCanDecrease() {
+        //given
+        AirCondition panasonic = new AirCondition();
+        //when
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.decreaseTemperature();
+        //check
+        assertEquals(17, panasonic.getTemperature());
     }
 
     @Test
-    public void decreaseTemperature() {
+    public void testThatTemperatureCanNotIncreaseBeyond30() {
+        //given
+        AirCondition panasonic = new AirCondition();
+        //when
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        //assert
+        assertEquals(30, panasonic.getTemperature());
+    }
+
+    @Test
+    public void testThatTemperatureDecreaseBeyond16() {
         //when
         AirCondition panasonic = new AirCondition();
         //given
-        panasonic.decreaseTemperature(17);
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.increaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
+        panasonic.decreaseTemperature();
         //assert
         assertEquals(16, panasonic.getTemperature());
     }
