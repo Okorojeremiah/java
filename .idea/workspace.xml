@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Buyer gets discount of 2% on fuel bought">
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="added love comment">
       <change beforePath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656078551518</updated>
       <workItem from="1656078554110" duration="52617000" />
-      <workItem from="1656338566406" duration="60708000" />
+      <workItem from="1656338566406" duration="63079000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656529239920</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added love comment">
+      <created>1656530041235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656530041235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +225,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My Semi-colon project" />
     <MESSAGE value="Buyer gets discount of 2% on fuel bought" />
-    <option name="LAST_COMMIT_MESSAGE" value="Buyer gets discount of 2% on fuel bought" />
+    <MESSAGE value="added love comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="added love comment" />
   </component>
 </project>

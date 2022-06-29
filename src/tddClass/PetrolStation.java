@@ -6,7 +6,7 @@ public class PetrolStation {
     private final double fuelPricePerlitre = 200;
     private int litre;
 
-    // love
+
     public PetrolStation(int litre, String location) {
         this.litre = litre;
         this.location = location;
