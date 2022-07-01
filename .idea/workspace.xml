@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="added love comment">
-      <change beforePath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Removed a comment">
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/CarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +53,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_directory_selection": "C:/Users/user/IdeaProjects/jeremiahSemiColon/src/tddClass",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/jeremiahSemiColon",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Java",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
@@ -75,8 +79,21 @@
       <recent name="assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BikeTest.TestForPowerBikeOnGearThree">
-    <configuration name="BikeTest.TestForPowerBikeCanOnGearThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CarApplication">
+    <configuration name="CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterThree.CarApplication" />
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dietelProject.chapterThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeTest.TestThatPowerBikeCanAccelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -86,13 +103,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
       <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestForPowerBikeCanOnGearThree" />
+      <option name="METHOD_NAME" value="TestThatPowerBikeCanAccelerate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.TestForPowerBikeOnGearFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.TestThatPowerBikeCanDecelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +119,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
       <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestForPowerBikeOnGearFour" />
+      <option name="METHOD_NAME" value="TestThatPowerBikeCanDecelerate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.TestForPowerBikeOnGearThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.TestToCheckIfGearCanDecreaseBelow0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +135,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
       <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestForPowerBikeOnGearThree" />
+      <option name="METHOD_NAME" value="TestToCheckIfGearCanDecreaseBelow0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.TestForPowerBikeOnGearTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeTest.TestToCheckIfGearCanDecreaseBelow1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -134,23 +151,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tddClass" />
       <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestForPowerBikeOnGearTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BikeTest.TestForPowerBikeSpeedOnGearOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestForPowerBikeSpeedOnGearOne" />
+      <option name="METHOD_NAME" value="TestToCheckIfGearCanDecreaseBelow1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearThree" />
-        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearTwo" />
-        <item itemvalue="JUnit.BikeTest.TestForPowerBikeSpeedOnGearOne" />
-        <item itemvalue="JUnit.BikeTest.TestForPowerBikeOnGearFour" />
-        <item itemvalue="JUnit.BikeTest.TestForPowerBikeCanOnGearThree" />
+        <item itemvalue="Application.CarApplication" />
+        <item itemvalue="JUnit.BikeTest.TestThatPowerBikeCanAccelerate" />
+        <item itemvalue="JUnit.BikeTest.TestThatPowerBikeCanDecelerate" />
+        <item itemvalue="JUnit.BikeTest.TestToCheckIfGearCanDecreaseBelow1" />
+        <item itemvalue="JUnit.BikeTest.TestToCheckIfGearCanDecreaseBelow0" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656078551518</updated>
       <workItem from="1656078554110" duration="52617000" />
-      <workItem from="1656338566406" duration="63079000" />
+      <workItem from="1656338566406" duration="63296000" />
+      <workItem from="1656537834638" duration="29689000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656530041235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Removed a comment">
+      <created>1656537494803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656537494803</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +235,7 @@
     <MESSAGE value="My Semi-colon project" />
     <MESSAGE value="Buyer gets discount of 2% on fuel bought" />
     <MESSAGE value="added love comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="added love comment" />
+    <MESSAGE value="Removed a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed a comment" />
   </component>
 </project>
