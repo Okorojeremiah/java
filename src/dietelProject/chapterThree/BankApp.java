@@ -18,7 +18,6 @@ public class BankApp{
 		if (depositAmount > 0.0) {
 			balance = balance + depositAmount;
 		}
-	
 	}
 	
 	public double getBalance() {

@@ -1,6 +1,6 @@
 package dietelProject.chapterTwo;
 
-// a program that prints the square, the sum of the squares and the difference of the squares of two intergers
+// a program that prints the square, the sum of the squares and the difference of the squares of two integers
 
 import java.util.Scanner; // program uses scanner
 

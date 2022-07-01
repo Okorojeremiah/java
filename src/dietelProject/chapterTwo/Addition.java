@@ -1,4 +1,6 @@
-package dietelProject.chapterTwo;// fig 2.7 Addition2.java
+package dietelProject.chapterTwo;
+
+// fig 2.7 Addition2.java
 // an addition program that takes two inputs and displays their sum
 
 import java.util.Scanner;

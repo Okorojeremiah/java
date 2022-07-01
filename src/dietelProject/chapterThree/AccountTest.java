@@ -2,7 +2,6 @@ package dietelProject.chapterThree;
 
 import java.util.Scanner;
 
-
 public class AccountTest {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -17,7 +16,6 @@ public class AccountTest {
 		String theName = input.nextLine();
 
 		myAcct.setName(theName);
-
 
 		System.out.printf("the name in the object account is: %n%s", myAcct.getName());
 

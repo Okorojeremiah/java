@@ -1,6 +1,6 @@
 package dietelProject.chapterTwo;
 
-// Comparing an integer and it square with the number 100
+// Comparing an integer and it squares with the number 100
 
 import java.util.Scanner; // program uses scanner
 

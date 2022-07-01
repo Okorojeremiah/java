@@ -1,3 +1,7 @@
+package dietelProject.chapterThree;
+
+import dietelProject.chapterThree.KudaBank;
+
 import java.util.Scanner;
 
 
@@ -12,22 +16,20 @@ public class KudaBankTest {
 	
 	System.out.println("Enter name: ");
 	String theName = input.nextLine();
-	Jerry.setacctName(theName);
+	Jerry.setAcctName(theName);
 
 	System.out.println("Enter Account Number: ");
 	String theAcctNum = input.nextLine();
-	Jerry.setacctNum(theAcctNum);
+	Jerry.setAcctNum(theAcctNum);
 
 	System.out.println("Enter pin: ");
 	String thePin = input.nextLine();
 	Jerry.setPin(thePin);
 
 	System.out.println("Enter deposit; ");
-	double thedeposit = input.nextDouble();
-	Jerry.setDeposit(thedeposit);
+	double theDeposit = input.nextDouble();
+	Jerry.setDeposit(theDeposit);
 	
 	System.out.printf("Your balance is %f", Jerry.getBalance());
-	
 	}
-
 }

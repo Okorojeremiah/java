@@ -1,3 +1,5 @@
+package dietelProject.chapterThree;
+
 public class JayBank {
 
 	private String name;

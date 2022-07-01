@@ -1,3 +1,5 @@
+package dietelProject.chapterThree;
+
 import java.util.Scanner;
 
 

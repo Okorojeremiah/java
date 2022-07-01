@@ -1,3 +1,7 @@
+package dietelProject.chapterFour;
+
+import dietelProject.chapterFour.Student;
+
 public class StudentTest {
 	public static void main(String[] args) {
 	
