@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Wrote a test application to demonstrate class Car's capabilities.">
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Rearranged my code block structure.">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ArraysSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/SevenSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ShoppingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/MaximumFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/CompoundInterestCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedLoop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/Nokia3310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/SwitchMultiSelectionStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/ClassAverageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/GasMileage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/SentinelControlLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/CalculatePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/DisplayNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Anything.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/AnythingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/BankApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/BankApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/CalculationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/CalculationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tddClass/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/AccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/tddClass/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,29 +66,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "C:/Users/user/IdeaProjects/jeremiahSemiColon/src/tddClass",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/Java",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/user/IdeaProjects/jeremiahSemiColon/src/tddClass&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tddClass" />
@@ -91,13 +105,13 @@
       <recent name="assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DisplayBoxOvalArrowDiamond">
-    <configuration name="DisplayBoxOvalArrowDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterTwo.DisplayBoxOvalArrowDiamond" />
+  <component name="RunManager" selected="Application.SevenSegment">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.Array" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.chapterTwo.*" />
+          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterFour.StudentTest" />
+    <configuration name="NestedForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterFive.NestedForLoop1" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.chapterFour.*" />
+          <option name="PATTERN" value="dietelProject.chapterFive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dietelProject.chapterThree.CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterThree.CarApplication" />
+    <configuration name="SevenSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.SevenSegment" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.chapterFour.*" />
+          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,45 +145,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.TestThatPowerBikeCanAccelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.ShoppingTest" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.*" />
+          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestThatPowerBikeCanAccelerate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BikeTest.TestThatPowerBikeCanDecelerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentGradeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.StudentGradeTest" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.*" />
+          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.BikeTest" />
-      <option name="METHOD_NAME" value="TestThatPowerBikeCanDecelerate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DisplayBoxOvalArrowDiamond" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.dietelProject.chapterThree.CarApplication" />
-        <item itemvalue="JUnit.BikeTest.TestThatPowerBikeCanAccelerate" />
-        <item itemvalue="JUnit.BikeTest.TestThatPowerBikeCanDecelerate" />
+        <item itemvalue="Application.SevenSegment" />
+        <item itemvalue="Application.NestedForLoop1" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.StudentGradeTest" />
+        <item itemvalue="Application.ShoppingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +191,12 @@
       <updated>1656078551518</updated>
       <workItem from="1656078554110" duration="52617000" />
       <workItem from="1656338566406" duration="63296000" />
-      <workItem from="1656537834638" duration="31665000" />
+      <workItem from="1656537834638" duration="45488000" />
+      <workItem from="1656713756838" duration="3444000" />
+      <workItem from="1656766135504" duration="80135000" />
+      <workItem from="1657184323609" duration="121282000" />
+      <workItem from="1657794044056" duration="25532000" />
+      <workItem from="1657833324686" duration="3116000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -234,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656675602687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Rearranged my code block structure.">
+      <created>1656677960880</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656677960880</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +278,18 @@
     <MESSAGE value="Removed a comment" />
     <MESSAGE value="Created a class called Car that includes three instance variables." />
     <MESSAGE value="Wrote a test application to demonstrate class Car's capabilities." />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrote a test application to demonstrate class Car's capabilities." />
+    <MESSAGE value="Rearranged my code block structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rearranged my code block structure." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
