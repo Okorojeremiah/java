@@ -1,67 +1,80 @@
 package tddClass;
 
 public class Bike {
-    private int speed;
-    private int gear;
+    private int speed = -1;
+    private int gear = 0;
 
-    public void setGear() {
-        this.gear = gear + 1;
+    public void increaseGear() {
+        gear = gear + 1;
+        if (gear > 4) {
+            gear = 4;
+        }
+    }
+    public void decreaseGear() {
+        gear = gear - 1;
+        if (gear < 0) {
+            gear = 0;
+        }
+    }
+    public int getGear() {
+        return gear;
     }
 
 
     public void accelerate() {
-        if (this.gear == 1) {
-            this.speed = speed + 1;
+        if (gear == 1) {
+            speed = speed + 1;
+        } else if (gear == 2) {
+            speed = speed + 2;
+        } else if (gear == 3) {
+            speed = speed + 3;
+        } else if (gear == 4) {
+            speed = speed + 4;
+        } else {
+            speed = 0;
         }
-        if (this.gear == 2) {
-            this.speed = speed + 2;
-        }
-        if (this.gear == 3) {
-            this.speed = speed + 3;
-        }
-        if (this.gear == 4) {
-            this.speed = speed + 4;
+        if (speed < 0) {
+            speed = 0;
         }
 
+//        if (speed >= 0 && speed <=20) {
+//            gear = 1;
+//        }
+//        if (speed > 20 && speed <= 30) {
+//            gear = 2;
+//        }
+//        if (speed > 30 && speed <= 40) {
+//            gear = 3;
+//        }
+//        if (speed > 40) {
+//            gear = 4;
+//        }
 
-        if (this.speed >= 0 && this.speed <=20) {
-            this.gear = 1;
-        }
-        if (this.speed >= 21 && this.speed < 30) {
-            this.gear = 2;
-        }
-        if (this.speed >= 31 && this.speed < 40) {
-            this.gear = 3;
-        }
-        if (this.speed == 41 && this.speed > 41) {
-            this.gear = 4;
-        }
     }
 
     public void decelerate() {
         if (gear == 1) {
-            this.speed = speed - 1;
+            speed = speed - 1;
         }
         if(gear == 2) {
-            this.speed = speed - 2;
+            speed = speed - 2;
         }
         if (gear == 3) {
-            this.speed = speed - 3;
+            speed = speed - 3;
         }
         if (gear == 4) {
-            this.speed = speed - 4;
+            speed = speed - 4;
         }
         if (gear <= 0) {
-            this.speed = 0;
+            speed = 0;
+        }
+        if (speed < 0) {
+            speed = 0;
         }
     }
 
-    public int gearChange(int speed) {
-        if (speed >= 0 && speed <= 20) {
-            this.gear = 1;
-        }
-        return speed;
-    }
+
+
 
     public int getSpeed(){
         return speed;

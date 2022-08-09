@@ -1,37 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Rearranged my code block structure.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ArraysSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/InitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/SevenSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Shopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ShoppingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGradeTest.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Exercises on loops, arrays and multi-selection statements.">
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/AnimalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/BaseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/BasePlusCompensationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/CommissionCompensationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/CompensationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterNine/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ArrayExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/DuplicateElimination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/HotelManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/HotelManagementSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/MeyerBriggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/PracticeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGrade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/StudentGrade2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/BeautifyingStrings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/MaximumFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/RollDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/CompoundInterestCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedLoop4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/Nokia3310.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFive/SwitchMultiSelectionStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/ClassAverageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/GasMileage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/SentinelControlLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSix/TemperatureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/BaseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/PayableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ChapterTen/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/ConstructorChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterFour/SalesCommissionCalculator2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/Clock.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dietelProject/chapterThree/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/CalculatePrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/ClassFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/SalesCommissionCalculatorOop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Skeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelProject/oop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/FlightReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/BankAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/FlightReservationSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/SalaryCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/TicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/SevenSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ShoppingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/ChapterSeven/ShoppingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/Account1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tddClass/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/AccountTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/tddClass/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +75,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -91,6 +124,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="dietelProject.ChapterNine" />
+      <recent name="dietelProject.oop" />
       <recent name="tddClass" />
       <recent name="assignment" />
     </key>
@@ -105,9 +140,9 @@
       <recent name="assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SevenSegment">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.Array" />
+  <component name="RunManager" selected="Application.EmployeeTest">
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.ArraySort" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterFive.NestedForLoop1" />
+    <configuration name="ComparingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterTwo.ComparingIntegers" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.chapterFive.*" />
+          <option name="PATTERN" value="dietelProject.chapterTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.SevenSegment" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterNine.EmployeeTest" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
+          <option name="PATTERN" value="dietelProject.ChapterNine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.ShoppingTest" />
+    <configuration name="GasMileage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.chapterFour.GasMileage" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
+          <option name="PATTERN" value="dietelProject.chapterFour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterSeven.StudentGradeTest" />
+    <configuration name="PayableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dietelProject.ChapterNine.PayableTest" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelProject.ChapterSeven.*" />
+          <option name="PATTERN" value="dietelProject.ChapterNine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SevenSegment" />
-        <item itemvalue="Application.NestedForLoop1" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.StudentGradeTest" />
-        <item itemvalue="Application.ShoppingTest" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.PayableTest" />
+        <item itemvalue="Application.ComparingIntegers" />
+        <item itemvalue="Application.ArraySort" />
+        <item itemvalue="Application.GasMileage" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +231,17 @@
       <workItem from="1656766135504" duration="80135000" />
       <workItem from="1657184323609" duration="121282000" />
       <workItem from="1657794044056" duration="25532000" />
-      <workItem from="1657833324686" duration="3116000" />
+      <workItem from="1657833324686" duration="32980000" />
+      <workItem from="1657997782986" duration="43319000" />
+      <workItem from="1658475877514" duration="1327000" />
+      <workItem from="1658551621859" duration="28005000" />
+      <workItem from="1658672327208" duration="95000" />
+      <workItem from="1658771135872" duration="56769000" />
+      <workItem from="1658982428280" duration="5720000" />
+      <workItem from="1659008774315" duration="29251000" />
+      <workItem from="1659274923839" duration="38196000" />
+      <workItem from="1659551344525" duration="88083000" />
+      <workItem from="1660066555605" duration="1822000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -254,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656677960880</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercises on loops, arrays and multi-selection statements.">
+      <created>1657869734060</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657869734060</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +331,8 @@
     <MESSAGE value="Created a class called Car that includes three instance variables." />
     <MESSAGE value="Wrote a test application to demonstrate class Car's capabilities." />
     <MESSAGE value="Rearranged my code block structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Rearranged my code block structure." />
+    <MESSAGE value="Exercises on loops, arrays and multi-selection statements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises on loops, arrays and multi-selection statements." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -288,6 +341,11 @@
           <url>file://$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/tddClass/AccountTest.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

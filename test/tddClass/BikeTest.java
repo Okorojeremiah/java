@@ -33,46 +33,44 @@ public class BikeTest {
     }
 
     @Test
-    public void TestForPowerBikeSpeedOnGearOne() {
-        powerBike.setGear();
-        powerBike.accelerate();
-        assertEquals(1, powerBike.getSpeed());
+    public void TestToCheckIfGearCanIncrease() {
+        powerBike.increaseGear();
+        assertEquals(1, powerBike.getGear());
     }
 
     @Test
-    public void TestForPowerBikeOnGearTwo() {
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        assertEquals(4, powerBike.getSpeed());
+    public void TestToCheckIfGearCanIncreaseAbove4() {
+        powerBike.increaseGear();
+        powerBike.increaseGear();
+        powerBike.increaseGear();
+        powerBike.increaseGear();
+        powerBike.increaseGear();
+        assertEquals(4, powerBike.getGear());
     }
 
     @Test
-    public void TestForPowerBikeOnGearThree() {
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        assertEquals(3, powerBike.getSpeed());
+    public void TestToCheckIfGearCanDecreaseBelow1() {
+        powerBike.increaseGear();
+        powerBike.decreaseGear();
+        assertEquals(0, powerBike.getGear());
+    }
+
+    @Test
+    public void TestThatPowerBikeCanAccelerate() {
+        powerBike.increaseGear();
+
+        assertEquals(0, powerBike.getSpeed());
+        assertEquals(1, powerBike.getGear());
     }
     @Test
-    public void TestForPowerBikeOnGearFour() {
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.setGear();
-        powerBike.setGear();
+    public void TestThatPowerBikeCanDecelerate() {
+        powerBike.increaseGear();
+        powerBike.increaseGear();
         powerBike.accelerate();
         powerBike.accelerate();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        powerBike.accelerate();
-        assertEquals(12, powerBike.getSpeed());
+        powerBike.decelerate();
+        assertEquals(2, powerBike.getSpeed());
+        assertEquals(1, powerBike.getGear());
 
 
     }

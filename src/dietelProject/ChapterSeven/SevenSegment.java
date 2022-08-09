@@ -7,7 +7,7 @@ public class SevenSegment {
     static int[][] arrays = new int[5][4];
 
     public static void main(String[] args) throws InterruptedException, IllegalAccessException {
-        input("1001001");
+        input("1111111");
         display();
     }
 
@@ -75,7 +75,7 @@ public class SevenSegment {
 
     static void input(String input) throws IllegalAccessException, InterruptedException {
         if (input.length() > 8){
-         input = input.substring(0,8);
+         input = input.substring(0,1);
         }
         char [] fill = input.toCharArray();
         for(char i : fill){

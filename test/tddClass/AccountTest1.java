@@ -5,13 +5,13 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class AccountTest {
+public class AccountTest1 {
 
     @Test
     @DisplayName("Deposit money, balance increases test")
     public void methodName(){
         //given
-        Account jennyAccount = new Account();
+        Account1 jennyAccount = new Account1();
         //when
         jennyAccount.deposit(500);
         jennyAccount.deposit(500);
@@ -20,9 +20,9 @@ public class AccountTest {
     }
 
     @Test
-    public void withdrawWorktest(){
+    public void withdrawWalTest(){
         //given
-        Account jennyAccount = new Account();
+        Account1 jennyAccount = new Account1();
         jennyAccount.deposit(5000);
         //when
         jennyAccount.withdraw(2000);

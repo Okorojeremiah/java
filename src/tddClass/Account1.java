@@ -1,6 +1,6 @@
 package tddClass;
 
-public class Account {
+public class Account1 {
 
     private int balance;
     public void deposit(int amount) {
