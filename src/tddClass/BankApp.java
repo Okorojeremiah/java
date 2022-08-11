@@ -1,9 +1,5 @@
 package tddClass;
 
-import dietelProject.ChapterSeven.Array;
-
-import java.util.ArrayList;
-
 public class BankApp {
 
     private int numberOfCustomers;

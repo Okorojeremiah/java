@@ -58,7 +58,7 @@ public class Student {
 			letterGrade = "E";
 		}
 	
-		else {
+		if (average < 50){
 			letterGrade = "F";
 		}
 		
