@@ -6,7 +6,7 @@ public class Bicycle implements CarbonFootprint{
 
 
     @Override
-    public void getCarbonFootPrint() {
-
+    public double getCarbonFootPrint() {
+        return 0;
     }
 }

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Exercises on loops, arrays , multi-selection statements, inheritance, composition, polymorphism and abstraction.">
-      <change afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/dataStructureTest/StackTest.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Stack class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraySort.java" afterDir="false" />
@@ -212,7 +209,7 @@
       <workItem from="1659008774315" duration="29251000" />
       <workItem from="1659274923839" duration="38196000" />
       <workItem from="1659551344525" duration="88083000" />
-      <workItem from="1660066555605" duration="82773000" />
+      <workItem from="1660066555605" duration="83814000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -291,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660210495890</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Stack class">
+      <created>1660513009013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660513009013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +322,8 @@
     <MESSAGE value="Rearranged my code block structure." />
     <MESSAGE value="Exercises on loops, arrays and multi-selection statements." />
     <MESSAGE value="Exercises on loops, arrays , multi-selection statements, inheritance, composition, polymorphism and abstraction." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises on loops, arrays , multi-selection statements, inheritance, composition, polymorphism and abstraction." />
+    <MESSAGE value="Stack class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
