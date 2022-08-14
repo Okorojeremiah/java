@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Stack class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/CarbonFootprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/CarbonFootprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +204,7 @@
       <workItem from="1659008774315" duration="29251000" />
       <workItem from="1659274923839" duration="38196000" />
       <workItem from="1659551344525" duration="88083000" />
-      <workItem from="1660066555605" duration="83814000" />
+      <workItem from="1660066555605" duration="84216000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
