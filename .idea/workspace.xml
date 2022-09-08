@@ -2,8 +2,181 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Stack class">
-      <change afterPath="$PROJECT_DIR$/src/tddClass/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFourteen/StringMiscellaneous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/ComparingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/DisplayXAndO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/CityDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/DuckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/SimpleQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/duckClass/WildDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/account/InvalidAmountThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/account/InvalidPinThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/account/WrongAccountNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/account/WrongNameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/aircondition/AirCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/bankApp/InvalidRecipientAccountNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/bankApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/turtle/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/turtle/SketchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/turtle/TurtlePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tddClass/turtle/Turtles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/aircondition/AirConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/dataStructureTest/setTest/setTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tddClass/turtle/TurtleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/ConstructorChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/ConstructorChaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/ClassGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/ClassGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/CompoundInterestCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/CompoundInterestCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/NestedForLoop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/NestedForLoop2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedForLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/NestedForLoop3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/NestedLoop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/NestedLoop4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/Nokia3310.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFive/SwitchMultiSelectionStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFive/SwitchMultiSelectionStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/ClassAverageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFour/ClassAverageCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFour/GasMileage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/SentinelControlLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFour/SentinelControlLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFour/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterFour/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFour/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/animal/AnimalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/animal/AnimalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/animal/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/animal/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/animal/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/animal/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/animal/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/animal/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/BaseEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/BaseEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/BasePlusCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/BasePlusCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/CommissionCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/CommissionCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/CommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/CommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/CompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/CompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterNine/employeeApp/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterNine/employeeApp/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArrayExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/ArrayExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ArraysSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/ArraysSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/DuplicateElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/DuplicateElimination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/HotelManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/HotelManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/HotelManagementSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/HotelManagementSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/InitArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/InitArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/MeyerBriggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/MeyerBriggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/PracticeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/PracticeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/SevenSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Shopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/ShoppingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/ShoppingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/StudentGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/StudentGrade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/StudentGrade2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/StudentGrade2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/StudentGrade2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSeven/StudentGradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/StudentGradeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/BeautifyingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/BeautifyingStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/MaximumFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/MaximumFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/Palindromes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/RandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/RollDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/RollDie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterSix/TemperatureConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/TemperatureConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/carbonFootPrint/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/carbonFootPrint/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/carbonFootPrint/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/carbonFootPrint/CarbonFootprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/carbonFootPrint/CarbonFootprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/BaseEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/BaseEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/CommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/CommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/PayableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/PayableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp1/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp1/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/BasePlusCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/BasePlusCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/CommissionCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/CommissionCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/CompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/CompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/HourlyCompensationEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/HourlyCompensationEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp2/SalariedCompensationEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp2/SalariedCompensationEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/BasePlusCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/BasePlusCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/CommissionCompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/CommissionCompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/CompensationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/CompensationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/HourlyCompensationEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/HourlyCompensationEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTen/employeeApp3/SalariedCompensationEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTen/employeeApp3/SalariedCompensationEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/BankApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/BankApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/BankAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/BankAppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/Calculations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/CalculationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/CalculationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/CarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/CarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/ClockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/GuessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/JayBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/JayBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/JayBankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/KudaBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterThree/KudaBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterThree/KudaBankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Acceleration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Acceleration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/BMICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/BMICalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Checkerboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Checkerboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/ComparingIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/ComparingIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/CostOfDriving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/CostOfDriving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/DisplayBoxOvalArrowDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/DisplayBoxOvalArrowDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Divisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Divisibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/IntEquivalentOfACharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/IntEquivalentOfACharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/IntegerCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/IntegerCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/MinutesCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/MinutesCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Multiples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/RunwayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/RunwayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/SemiColon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/SemiColon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/SeparatingAnInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/SeparatingAnInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/SquareCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/SquareCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/chapterTwo/SquaresAndCubes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterTwo/SquaresAndCubes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/ClassFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/ClassFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Head.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/SalesCommissionCalculatorOop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/SalesCommissionCalculatorOop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Skeleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Skeleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelProject/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Account1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/account1/Account1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/AirCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/arrayList/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/BankApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/bankApp/BankApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/CalculatePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/priceCalculation/CalculatePrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/FlightReservationSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/flightReservation/FlightReservationSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/PetrolStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/petrolStation/PetrolStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/ticket/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/dataStructure/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/list/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/dataStructure/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tddClass/dataStructure/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tddClass/dataStructure/vector/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/AccountTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/account1/AccountTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/AirConditionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/BankAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/bankApp/BankAppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/bike/BikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/priceCalculation/CalculatePriceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/FlightReservationSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/flightReservation/FlightReservationSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/PetrolStationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/petrolStation/PetrolStationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/SalaryCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/salaryCalculator/SalaryCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/TicketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/ticketApp/TicketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tddClass/dataStructureTest/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/dataStructureTest/stackTest/StackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +188,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +214,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "true",
@@ -63,10 +238,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="tddClass.account" />
+      <recent name="tddClass.bankApp" />
+      <recent name="tddClass.turtle" />
+      <recent name="tddClass.aircondition" />
       <recent name="dietelProject.ChapterNine" />
-      <recent name="dietelProject.oop" />
-      <recent name="tddClass" />
-      <recent name="assignment" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\Java\src\dietelProject\ChapterTen\Employee2" />
@@ -78,8 +254,11 @@
       <recent name="tddClass" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="tddClass" />
-      <recent name="assignment" />
+      <recent name="tddClass.bike" />
+      <recent name="tddClass.flightReservation" />
+      <recent name="tddClass.petrolStation" />
+      <recent name="tddClass.priceCalculation" />
+      <recent name="tddClass.bankApp" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="assignment" />
@@ -88,82 +267,78 @@
       <recent name="dietelProject.ChapterTen.Employee3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListTest.testThatItemsCanBeGottenByTheirIndex">
-    <configuration name="ArrayListTest.testThatItemsCanBeGottenByTheirIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tddClass.bankApp.Main" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.dataStructure.*" />
+          <option name="PATTERN" value="tddClass.bankApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.ArrayListTest" />
-      <option name="METHOD_NAME" value="testThatItemsCanBeGottenByTheirIndex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass.account" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.account.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.accountCannotBeCreatedWithInvalidName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tddClass.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tddClass.account" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.account.AccountTest" />
+      <option name="METHOD_NAME" value="accountCannotBeCreatedWithInvalidName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest.testThatItemsCanBeAddedToStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountTest.cannotDepositNegativeAmountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.dataStructure.*" />
+          <option name="PATTERN" value="tddClass.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass.dataStructureTest" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.dataStructureTest.StackTest" />
-      <option name="METHOD_NAME" value="testThatItemsCanBeAddedToStack" />
+      <option name="PACKAGE_NAME" value="tddClass.account" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.account.AccountTest" />
+      <option name="METHOD_NAME" value="cannotDepositNegativeAmountTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest.testToRemoveTheLastElementAddedToStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountTest.testBalanceWithInvalidPin_returnZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.dataStructure.*" />
+          <option name="PATTERN" value="tddClass.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass.dataStructureTest" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.dataStructureTest.StackTest" />
-      <option name="METHOD_NAME" value="testToRemoveTheLastElementAddedToStack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest.testToSearchStackElementsAndReturnItemPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tddClass.dataStructureTest" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.dataStructureTest.StackTest" />
-      <option name="METHOD_NAME" value="testToSearchStackElementsAndReturnItemPosition" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest.testToShowTheLastElementInTheStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tddClass.dataStructureTest" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.dataStructureTest.StackTest" />
-      <option name="METHOD_NAME" value="testToShowTheLastElementInTheStack" />
+      <option name="PACKAGE_NAME" value="tddClass.account" />
+      <option name="MAIN_CLASS_NAME" value="tddClass.account.AccountTest" />
+      <option name="METHOD_NAME" value="testBalanceWithInvalidPin_returnZeroTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayListTest.testThatItemsCanBeGottenByTheirIndex" />
-        <item itemvalue="JUnit.StackTest.testToSearchStackElementsAndReturnItemPosition" />
-        <item itemvalue="JUnit.StackTest.testToShowTheLastElementInTheStack" />
-        <item itemvalue="JUnit.StackTest.testToRemoveTheLastElementAddedToStack" />
-        <item itemvalue="JUnit.StackTest.testThatItemsCanBeAddedToStack" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.AccountTest.accountCannotBeCreatedWithInvalidName" />
+        <item itemvalue="JUnit.AccountTest.cannotDepositNegativeAmountTest" />
+        <item itemvalue="JUnit.AccountTest.testBalanceWithInvalidPin_returnZeroTest" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +379,11 @@
       <workItem from="1659008774315" duration="29251000" />
       <workItem from="1659274923839" duration="38196000" />
       <workItem from="1659551344525" duration="88083000" />
-      <workItem from="1660066555605" duration="84216000" />
+      <workItem from="1660066555605" duration="86734000" />
+      <workItem from="1660574578441" duration="49073000" />
+      <workItem from="1661190167828" duration="54058000" />
+      <workItem from="1661858310265" duration="7183000" />
+      <workItem from="1661989697918" duration="112546000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -290,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660513009013</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Stack class">
+      <created>1660514583777</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660514583777</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,14 +510,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/tddClass/CalculatePriceTest.java</url>
+          <url>file://$PROJECT_DIR$/test/tddClass/priceCalculation/CalculatePriceTest.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/tddClass/AccountTest.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
