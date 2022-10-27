@@ -2,54 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Strings, Files input/output stream and Collections.">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gjhkdas.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/StreamReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/BufferedInputAndOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/ReadTextFileWithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/ReadingFromAFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/WritingToAFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/creditInquiry/CreditInquiry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/creditInquiry/MenuOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/serialization2/CreateTextToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/serialization2/EndOfFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/serialization2/LengthOfAFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/CollectionContd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/MapEntryInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/MapS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/SortUsingObjectOfComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/oop/ComplexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/archeryGame/Players.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tddClass/archeryGame/ScoreBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/Reciept/CheckOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tddClass/Reciept/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/IntStreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/RandomInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/ConvertingAnArrayToAListAndListToAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CreateMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/RemovingDuplicateElementsFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SearchFirstName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SortingAnArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/tddClass/archeryGame/ArcheryGameTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/tddClass/receipt/ReceiptTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeremiahSemiColon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jeremiahSemiColon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterSixteen/dataStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSixteen/dataStructure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/CreateTextToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/CreateTextToFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/CreateTextToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/CreateTextToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/FileOutputStreamSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/FileOutputStreamSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/FilesAndDirectoryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/FilesAndDirectoryInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/InputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/InputStream1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/JavaNioSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/JavaNioSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/Serialization/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/Serialization/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/Serialization/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/Serialization/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/StringMan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileWriterSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterFifteen/fileIO/fileWriterSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSeven/Shopping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/TemperatureConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/chapterSix/TemperatureConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tddClass/turtle/TurtleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tddClass/turtle/TurtleTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,13 +124,26 @@
       <recent name="dietelProject.ChapterTen.Employee3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamReduce">
-    <configuration name="ShoppingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapterSeven.ShoppingTest" />
+  <component name="RunManager" selected="Application.IntStreamOperations">
+    <configuration name="IntStreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.IntStreamOperations" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dietelProject.chapterSeven.*" />
+          <option name="PATTERN" value="com.dietelProject.chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.RandomInteger" />
+      <module name="jeremiahSemiColon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dietelProject.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,22 +180,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReceiptTest.testForTotalPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jeremiahSemiColon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddClass.receipt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tddClass.receipt" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.receipt.ReceiptTest" />
-      <option name="METHOD_NAME" value="testForTotalPrice" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReceiptTest.testThatOrderCanBeAddedToReceipt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
@@ -234,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntStreamOperations" />
+        <item itemvalue="Application.RandomInteger" />
         <item itemvalue="Application.StreamReduce" />
         <item itemvalue="JUnit.ReceiptTest.moreThanOneOrdersCanBeAddedTest" />
         <item itemvalue="JUnit.ReceiptTest.testThatOrderCanBeAddedToReceipt" />
-        <item itemvalue="JUnit.ReceiptTest.testForTotalPrice" />
-        <item itemvalue="Application.ShoppingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +285,7 @@
       <workItem from="1666685699007" duration="845000" />
       <workItem from="1666748079126" duration="3519000" />
       <workItem from="1666777075692" duration="1364000" />
-      <workItem from="1666858703558" duration="2438000" />
+      <workItem from="1666858703558" duration="7087000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -421,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663942164604</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Strings, Files input/output stream and Collections.">
+      <created>1666862657528</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666862657528</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
