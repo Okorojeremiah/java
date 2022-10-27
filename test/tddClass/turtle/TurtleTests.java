@@ -15,7 +15,6 @@ public class TurtleTests {
         ijapa = new Turtles();
         sketchPad = new SketchPad(5,5);
     }
-
     @Test
     public void thereIsATurtle(){
         ijapa = new Turtles();

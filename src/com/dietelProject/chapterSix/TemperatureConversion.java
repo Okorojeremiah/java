@@ -3,14 +3,13 @@ package com.dietelProject.chapterSix;
 import java.util.Scanner;
 public class TemperatureConversion {
 
-    public static void kelvin(double k){
-        double celsius = k - 273.15; //converts the kelvin temperature entered into a celsius temperature
-        System.out.printf("%s%.2f", "The celsius equivalent is ", celsius);
+
+    public static double celsius(double kelvin){
+        return kelvin - 273.15;
     }
 
-    public static void celsius(double c){
-        double kelvin = c + 273.15; //converts the celsius temperature entered into a kelvin temperature
-        System.out.printf("%s%.2f", "The kelvin equivalent is ", kelvin);
+    public static double kelvin(double celsius){
+        return celsius + 273.15;
     }
 
     public static void display(){
@@ -18,17 +17,17 @@ public class TemperatureConversion {
         System.out.println("Press 1 to enter a kelvin temperature or 2 to enter a celsius temperature");
         int a = scanner.nextInt();
 
-        switch (a){
-            case 1:
+        switch (a) {
+            case 1 -> {
                 System.out.println("Enter a kelvin temp: ");
                 double kelvin = scanner.nextDouble();
-                kelvin(kelvin);
-                break;
-            case 2:
+                System.out.println(celsius(kelvin));
+            }
+            case 2 -> {
                 System.out.println("Enter a celsius temp: ");
                 double celsius = scanner.nextDouble();
-                celsius(celsius);
-                break;
+                System.out.println(kelvin(celsius));
+            }
         }
     }
 

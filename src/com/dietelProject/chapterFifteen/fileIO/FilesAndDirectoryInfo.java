@@ -1,4 +1,4 @@
-package com.dietelProject.chapterFifteen;
+package com.dietelProject.chapterFifteen.fileIO;
 
 import java.io.IOException;
 import java.nio.file.Files;

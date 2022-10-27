@@ -1,10 +1,10 @@
-package Chapter15;
+package com.dietelProject.chapterFifteen.fileIO;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class InputStream {
+public class InputStream1 {
     public static void main(String[] args){
 
        try( InputStreamReader reader = new InputStreamReader(System.in);

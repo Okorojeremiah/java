@@ -1,4 +1,4 @@
-package Chapter15.Serialization;
+package com.dietelProject.chapterFifteen.Serialization;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.dietelProject.chapterFifteen;
+package com.dietelProject.chapterFifteen.fileIO;
 
 import java.io.*;
 import java.util.Formatter;
@@ -16,7 +16,7 @@ public class CreateTextToFile {
 
             while (scanner.hasNext()) {
                 try {
-                    output.format("%d %s %s %.2f", scanner.nextInt(), scanner.next(), scanner.next(), scanner.nextDouble());
+                    output.format("%d %s %s %.2f%n", scanner.nextInt(), scanner.next(), scanner.next(), scanner.nextDouble());
                 }catch (NoSuchElementException e){
                     System.err.println("Invalid input, pls try again");
                     scanner.nextLine();

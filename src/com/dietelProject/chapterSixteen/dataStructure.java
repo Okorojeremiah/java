@@ -1,4 +1,4 @@
-package chapterSixteen;
+package com.dietelProject.chapterSixteen;
 
 import java.util.Map;
 import java.util.PriorityQueue;

@@ -65,8 +65,7 @@ public class Shopping {
     }
 
     public double total() {
-           double total = price * quantity;
-           return total;
+        return price * quantity;
        }
 
 

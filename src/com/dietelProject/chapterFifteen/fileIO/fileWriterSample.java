@@ -1,4 +1,4 @@
-package Chapter15;
+package com.dietelProject.chapterFifteen.fileIO;
 
 import java.io.FileWriter;
 import java.io.IOException;
