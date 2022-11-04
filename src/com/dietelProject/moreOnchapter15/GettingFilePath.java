@@ -1,4 +1,4 @@
-package chapter15;
+package com.dietelProject.moreOnchapter15;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;

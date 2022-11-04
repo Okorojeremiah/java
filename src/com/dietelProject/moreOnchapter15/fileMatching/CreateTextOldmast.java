@@ -1,4 +1,4 @@
-package chapter15.fileMatching;
+package com.dietelProject.moreOnchapter15.fileMatching;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

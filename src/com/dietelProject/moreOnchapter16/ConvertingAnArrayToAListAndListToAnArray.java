@@ -1,4 +1,4 @@
-package chapter16;
+package com.dietelProject.moreOnchapter16;
 
 import java.util.Arrays;
 import java.util.LinkedList;

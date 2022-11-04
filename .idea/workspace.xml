@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Strings, Files input/output stream and Collections.">
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/IntStreamOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/RandomInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/ConvertingAnArrayToAListAndListToAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CreateMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/RemovingDuplicateElementsFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SearchFirstName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SortingAnArray.java" afterDir="false" />
+    <list default="true" id="45f7c317-ad1c-4d3b-9d8c-0d87eb85b711" name="Changes" comment="Generic Collections.">
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/ArraysAndStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/ArraysAndStreams2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/FunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dietelProject/chapter17/ProcessingEmployee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/tddClass/archeryGame/ArcheryGameTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/tddClass/receipt/ReceiptTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/CreateTextToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/CreateTextToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/CreateTextToFile2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/CreateTextToFile2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/GettingFilePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/GettingFilePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/ReadingAFileAndSavingInAnArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/ReadingAFileAndSavingInAnArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/ReadingFromAFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/ReadingFromAFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/Account1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/Account1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/CreateTextOldmast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/CreateTextOldmast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/CreateTextTransFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/CreateTextTransFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/FileMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/FileMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/InvalidAccountNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/InvalidAccountNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/InvalidAmountException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/InvalidAmountException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/TransactionRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/TransactionRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/WrongNameFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter15/fileMatching/WrongNameFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/ConvertingAnArrayToAListAndListToAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/ConvertingAnArrayToAListAndListToAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CreateMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/CreateMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/RemovingDuplicateElementsFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/RemovingDuplicateElementsFromList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SearchFirstName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SearchFirstName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SortingAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dietelProject/moreOnchapter16/SortingAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +44,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Enum" />
         <option value="Tag Library Descriptor" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,9 +141,9 @@
       <recent name="dietelProject.ChapterTen.Employee3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntStreamOperations">
-    <configuration name="IntStreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.IntStreamOperations" />
+  <component name="RunManager" selected="Application.Functions">
+    <configuration name="ArraysAndStreams2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.ArraysAndStreams2" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.RandomInteger" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.Functions" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -151,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.StreamReduce" />
+    <configuration name="Guilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.Guilter" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
@@ -164,45 +181,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReceiptTest.moreThanOneOrdersCanBeAddedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Guitar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.Guitar" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.receipt.*" />
+          <option name="PATTERN" value="com.dietelProject.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass.receipt" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.receipt.ReceiptTest" />
-      <option name="METHOD_NAME" value="moreThanOneOrdersCanBeAddedTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReceiptTest.testThatOrderCanBeAddedToReceipt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProcessingEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dietelProject.chapter17.ProcessingEmployee" />
       <module name="jeremiahSemiColon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tddClass.receipt.*" />
+          <option name="PATTERN" value="com.dietelProject.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tddClass.receipt" />
-      <option name="MAIN_CLASS_NAME" value="tddClass.receipt.ReceiptTest" />
-      <option name="METHOD_NAME" value="testThatOrderCanBeAddedToReceipt" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntStreamOperations" />
-        <item itemvalue="Application.RandomInteger" />
-        <item itemvalue="Application.StreamReduce" />
-        <item itemvalue="JUnit.ReceiptTest.moreThanOneOrdersCanBeAddedTest" />
-        <item itemvalue="JUnit.ReceiptTest.testThatOrderCanBeAddedToReceipt" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.Guitar" />
+        <item itemvalue="Application.Guilter" />
+        <item itemvalue="Application.ProcessingEmployee" />
+        <item itemvalue="Application.ArraysAndStreams2" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +296,15 @@
       <workItem from="1666685699007" duration="845000" />
       <workItem from="1666748079126" duration="3519000" />
       <workItem from="1666777075692" duration="1364000" />
-      <workItem from="1666858703558" duration="7087000" />
+      <workItem from="1666858703558" duration="7828000" />
+      <workItem from="1666903055274" duration="343000" />
+      <workItem from="1666930769725" duration="5025000" />
+      <workItem from="1667093610426" duration="2469000" />
+      <workItem from="1667202858954" duration="2602000" />
+      <workItem from="1667298872239" duration="4788000" />
+      <workItem from="1667378025388" duration="3088000" />
+      <workItem from="1667549373043" duration="9895000" />
+      <workItem from="1667599533831" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="My Semi-colon project">
       <created>1656361697739</created>
@@ -392,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666862657528</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Generic Collections.">
+      <created>1666874333996</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666874333996</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +447,8 @@
     <MESSAGE value="Exercises on loops, arrays , multi-selection statements, inheritance, composition, polymorphism and abstraction." />
     <MESSAGE value="Stack class" />
     <MESSAGE value="Strings, Files input/output stream and Collections." />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings, Files input/output stream and Collections." />
+    <MESSAGE value="Generic Collections." />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Collections." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

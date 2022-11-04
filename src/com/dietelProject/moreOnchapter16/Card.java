@@ -1,4 +1,4 @@
-package chapter16;
+package com.dietelProject.moreOnchapter16;
 
 public class Card {
     public Card(Face face, Suit suit) {
